@@ -1,0 +1,26 @@
+.error-input{
+    border: 2px solid red;
+}
+.error-mssg{
+    color: red;
+    margin-top: 5px;
+    font-size: 12px;
+
+}
+.home-btn{
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #B57EDC;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.home-btn:hover {
+    background-color:#78489b;
+}
+
+h2{
+    font-weight: 600;
+    font-size: 24px;
+}
